@@ -1,28 +1,31 @@
+
 #menü{
     padding-right: 150px;
-    padding-top: 100px;
+    padding-top: 20px;
     text-align: right;
     word-spacing: 150px;
-    color: aqua;
     font-size: 1.5em;
- 
+    background-color: transparent;
+    background-color: #0d6868;
+    margin: auto;
+   
 }
 nav a{
-    color: rgb(60, 60, 75);
+   
+    color: rgb(214, 211, 211);
 }
 #arkaplan {
-    background-image: url("/images/wood_windows_wallpaper_music_color_poster_de_macintosh-881830.jpg!d");
-    background-repeat:no-repeat;
-    background-size:100% 150%;
+   background-image: url(images/kareli.jpg);
+
 
 }
 
 #liste{
-    padding-top: 100px;
+   
     list-style-position: inside;
-    line-height: 65px;
-    padding-left: 1070px;
+    line-height: 60px;
     color:brown;
+    text-align: center;
 }
 
 .cerceve{
@@ -39,8 +42,8 @@ nav a{
 }
 
 .sayfa {
-    width: 600px;
-    margin: auto;
+    width: 500px;
+    margin-left: 600px;
 
 }
 
@@ -143,3 +146,9 @@ label {
 #kaydet:hover {
         opacity:.6;
         }        
+
+
+.margin{
+
+     margin-bottom: 10px;
+}
